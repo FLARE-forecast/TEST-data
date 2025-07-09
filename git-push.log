@@ -22,3 +22,21 @@
 07/09/25 17:11:06 EST -0500 | Processing: /data/ccre-dam-data
 07/09/25 17:11:06 EST -0500 | On branch ccre-dam-data
 07/09/25 17:11:06 EST -0500 | Your branch is up to date with 'origin/ccre-dam-data'.
+07/09/25 17:11:06 EST -0500 | 
+07/09/25 17:11:06 EST -0500 | nothing to commit, working tree clean
+07/09/25 17:11:06 EST -0500 | Processing: /data/annie-logs
+07/09/25 17:11:06 EST -0500 | [annie-logs 6ea6dc8] Wed 2025-07-09 17:11:06 EST
+07/09/25 17:11:06 EST -0500 |  2 files changed, 29 insertions(+)
+07/09/25 17:11:06 EST -0500 |  create mode 100644 git-garbage-collector.log
+07/09/25 17:11:06 EST -0500 | Found unpushed commit(s).
+07/09/25 17:11:08 EST -0500 | To github.com:FLARE-forecast/TEST-data.git
+07/09/25 17:11:08 EST -0500 |    94cd010..6ea6dc8  6ea6dc87c6793a19a98ebe3d4aca86eb47c2f6f3 -> annie-logs
+07/09/25 17:11:08 EST -0500 | Successfully pushed: 6ea6dc87c6793a19a98ebe3d4aca86eb47c2f6f3
+07/09/25 17:11:08 EST -0500 | ##########  END  ##########
+07/09/25 17:47:52 EST -0500 | ########## START ##########
+07/09/25 17:47:52 EST -0500 | Processing: /data/ccre-dam-data
+07/09/25 17:47:52 EST -0500 | [ccre-dam-data 47af0dc] Wed 2025-07-09 17:47:52 EST
+07/09/25 17:47:52 EST -0500 |  1 file changed, 160727 insertions(+)
+07/09/25 17:47:52 EST -0500 |  create mode 100644 FTP_Tutorial_1.csv
+07/09/25 17:47:52 EST -0500 | Found unpushed commit(s).
+07/09/25 17:47:57 EST -0500 | To github.com:FLARE-forecast/TEST-data.git
